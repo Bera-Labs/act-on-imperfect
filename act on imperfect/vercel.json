@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/imperfect-info-template.html"
+    }
+  ]
+}
